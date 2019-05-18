@@ -2,7 +2,7 @@
     "Name": "Functional Connectivity of Music-Induced Analgesia in Fibromyalgia",
     "BIDSVersion": "1.0.1",
     "ReferencesAndLinks": [
-        "Pando-Naude et al., 2019: Functional Connectivity of Music-Induced Analgesia in Fibromyalgia"
-    ],
-    "Acknowledgements": "We would like to thank the group Fibromyalgia Queretaro for their help with our study. Thanks to Luis\nConcha-Loyola for the help with the MRI sequences and the methodological and technical support and\nJuan J. Ortiz for technical support. Thanks to Juan I. Romero-Romo for the help with the clinical logistics\nand with the recruitment of the patients. We would also like to thank Micah Allen for his valuable insight\nand suggestions about the experimental design. The authors declare no conflict of interest. "
+        "Pando-Naude et al., 2019: Functional Connectivity of Music-Induced Analgesia in Fibromyalgia",
+        "https://www.biorxiv.org/content/10.1101/230243v1"
+    ]
 }
