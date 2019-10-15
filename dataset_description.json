@@ -6,5 +6,8 @@
     ],
     "HowToAcknowledge": "Please cite the paper",
     "License": "CC0",
-    "Acknowledgements": "Luis Concha, Juan J. Ortiz, Juan I. Romero Romo, Micah Allen."
+    "Acknowledgements": "Luis Concha, Juan J. Ortiz, Juan I. Romero Romo, Micah Allen.",
+    "Funding": [
+        "The Funding for Neurology Research, The Augustinus Fonden, Danish Basic Research Foundation, Ulla and Mogens Folmer Andersen Foundation, The Institute of Neurobiology UNAM"
+    ]
 }
