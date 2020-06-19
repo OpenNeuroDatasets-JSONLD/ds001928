@@ -1,0 +1,22 @@
+{
+	"Manufacturer": "GE",
+	"ManufacturersModelName": "DISCOVERY_MR750",
+	"AcquisitionNumber": 1,
+	"InstitutionName": "INSTITUTO_DE_NEUROBIOLOGIA",
+	"DeviceSerialNumber": "000000000000GEHC",
+	"SoftwareVersions": "24_LX_MR_Software_release:DV24.0_R01_1344.a",
+	"ProcedureStepDescription": "Fibromialgia",
+	"ScanningSequence": "EP_SE",
+	"SequenceVariant": "NONE",
+	"SeriesDescription": "DTI2mm",
+	"ProtocolName": "DTI2mm",
+	"ImageType": ["ORIGINAL", "PRIMARY", "OTHER"],
+	"AcquisitionTime": "15:57:31.000000",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.0808,
+	"RepetitionTime": 7,
+	"PhaseEncodingLines": 128,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170724 (OpenJPEG build) GCC6.1.0"
+}
